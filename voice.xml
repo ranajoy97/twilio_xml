@@ -1,0 +1,4 @@
+<Response>
+<Say voice="woman">Code to sign in to your ct.gov is </Say>
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
